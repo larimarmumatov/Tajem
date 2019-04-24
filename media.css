@@ -1,0 +1,75 @@
+@media (max-width : 992px) {
+  .header-main {
+    width: 80%;
+    height: 40%;
+    top: 30%;
+    left: 10%;
+  }
+  .our-story-text {
+    width: 100%;
+    margin: 5vh 10vh;
+  }
+  .expertise-block {
+    width: 50%;
+  }
+  .offer-main {
+    display: block;
+  }
+  .offer-block {
+    width: 50%;
+    float: left;
+    margin-bottom: 5vh;
+  }
+  .offer-block-name {
+    width: 220px;
+    margin: auto;
+  }
+  .footer {
+    min-height: 60vh;
+  }
+  .f1 {
+    display: none;
+  }
+  .f-main {
+    justify-content: space-around;
+  }
+  .f2 {
+    width: 60%;
+  }
+  .f3 {
+    width: 40%;
+  }
+  .clients-block img {
+    width: 55%;
+  }
+}
+
+
+@media (max-width : 880px) {
+  .our-story-text p {
+    width: 100%;
+  }
+  .header-main {
+    width: 60%;
+    height: 40%;
+    top: 30%;
+    left: 10%;
+    font-size: 13px;
+    left: 20%;
+  }
+}
+
+
+@media (max-width : 810px) {
+  .our-story-text p {
+    width: 100%;
+  }
+  .header-main {
+    width: 70%;
+    height: 50%;
+    top: 25%;
+    left: 10%;
+    font-size: 13px;
+    left: 15%;
+  }
+}

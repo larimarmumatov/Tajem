@@ -1,0 +1,55 @@
+.expertise {
+  width: 100%;
+  min-height: 70vh;
+  padding: 5vh;
+  color: #413d4b;
+}
+
+.expertise-title {
+  text-align: center;
+}
+
+.expertise-title h3 {
+  font-size: 22px;
+  margin-bottom: 1.5vh;
+}
+
+.expertise-title p {
+  letter-spacing: 0.75px;
+  font-size: 14px;
+}
+
+.expertise-title hr {
+  width: 50px;
+  margin: auto;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+
+.expertise-main {
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.expertise-block {
+  height: 25vh;
+  width: 30%;
+  text-align: center;
+  margin-top: 5vh;
+}
+
+.expertise-block img {
+  height: 7vh;
+}
+
+.expertise-block h4 {
+  margin-top: 2vh;
+  font-size: 14px;
+}
+
+.expertise-block p {
+  width: 65%;
+  margin: auto;
+  margin-top: 2vh;
+  font-size: 14px;
+}

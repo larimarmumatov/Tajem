@@ -1,0 +1,57 @@
+.client {
+  min-height: 70vh;
+  width: 100%;
+}
+
+ .block {
+   width: 50%;
+ }
+
+.title h3 {
+  color: #413d4b;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1.1px;
+  margin-top: 9vh;
+  margin-bottom: 7vh;
+}
+
+.block input, textarea {
+  display: block;
+  width: 70%;
+  margin-bottom: 3vh;
+  padding: 1.5vh;
+  opacity: 0.5;
+  color: #413d4b;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.7px;
+}
+
+.block textarea {
+  height: 25vh;
+  resize: none;
+}
+
+.block .btn {
+  padding: 0.7vh 3vh;
+  text-align: center;
+  margin: 0 0 9vh 0;
+}
+
+.clients {
+  width: 40%;
+}
+
+.clients-main {
+  justify-content: space-between;
+}
+
+.clients-block {
+  margin-top: 1.5vh;
+  float: left;
+  height: 50vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}

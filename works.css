@@ -1,0 +1,51 @@
+.our-works {
+  min-height: 60vh;
+}
+
+.our-works .title {
+  justify-content: space-around;
+  height: 15vh;
+  align-items: center;
+  color: #413d4b;
+}
+
+.our-works .title h3 {
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1.1px;
+}
+
+.our-works .title a {
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.7px;
+  text-decoration: none;
+  color: #413d4b;
+}
+
+.our-works .title img {
+  height: 1.2vh;
+  width: 0.7vh;
+  opacity: 0.7;
+  margin: 0;
+  color: #413d4b;
+}
+
+.works {
+  text-align: center;
+}
+
+.works img {
+  width: 16.1616%;
+}
+
+.our-works-footer {
+  height: 15vh;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+}
+
+.our-works-footer button {
+  margin: auto;
+}

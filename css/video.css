@@ -1,0 +1,20 @@
+.video {
+  background: url(../img/ourstoryvideo.png) no-repeat;
+  background-size: cover;
+  min-height: 50vh;
+  width: 100%;
+  color: #ffffff;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.watch {
+  margin: 0 auto;
+}
+
+.watch-h3 {
+  margin: 0 auto;
+  font-weight: 900;
+  letter-spacing: 0.8px;
+  font-size: 16px;
+}

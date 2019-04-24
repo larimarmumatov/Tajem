@@ -1,0 +1,51 @@
+.testimonials {
+  min-height: 50vh;
+  width: 100%;
+  background: url(../img/testimonialsbg.jpg) no-repeat;
+  background-size: cover;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+}
+
+.open-top {
+  margin-top: 10vh;
+  margin-bottom: 5vh;
+}
+
+.testimonials p {
+  opacity: 0.85;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.4px;
+  width: 66%;
+  margin: auto;
+  }
+
+.testimonials-sub {
+  margin-top: 7vh;
+}
+
+.testimonials-sub p {
+  opacity: 0.7;
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 22px;
+}
+
+.testimonials-team {
+  justify-content: center;
+  align-items: center;
+  margin: 7vh;
+}
+
+.team-selecter {
+  margin-left: 5vh;
+  margin-right: 5vh;
+}
+
+.team-part {
+  margin: 0 1vh;
+}

@@ -1,0 +1,62 @@
+/* configurations */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  transition: all 0.5s ease;
+}
+
+a, a:hover, a:active {
+  text-decoration: none;
+}
+
+.container {
+  margin: 0 auto;
+  width: 85% !important;
+  position: relative;
+}
+
+.ffr {
+  font-family: 'Roboto', sans-serif;
+}
+
+.ffp {
+  font-family: 'Playfair Display', serif;
+}
+
+.ffh {
+  font-family: 'Hammersmith One', sans-serif;
+}
+
+.df {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+}
+
+.jcb {
+  justify-content: space-between;
+}
+
+.alc {
+  align-items: center;
+}
+
+.ttu {
+  text-transform: uppercase;
+}
+
+.btn {
+  background-color: transparent;
+  border: 1px solid #00e0d0;
+  padding: 9px;
+  color: #00e0d0;
+  margin-top: 1vh;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background-color: #00e0d0;
+  color: #fff;
+}
